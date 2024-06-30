@@ -1,0 +1,22 @@
+//type price quantity portion/size orderid name
+
+Food 5.99 2 17 3154 Doner
+Food 7.49 3 22 2457 Beyti
+Food 4.99 1 10 4877 SSK
+Food 6.25 2 5 2544 Adana Kebap
+Food 8.99 1 14 3544 Urfa Kebap
+Food 5.49 3 8 1758 Patlican Kebap
+Food 9.75 2 19 4475 Kusbasili Pide
+Food 3.99 1 2 2545 Kasarli Pide
+Food 6.75 3 15 3485 Mercimek Corbasi
+Food 7.99 2 11 1569 Lahmacun
+Beverage 2.49 1 small 7123 CocaCola
+Beverage 3.99 2 large 1256 Sprite
+Beverage 4.49 1 medium 1889 Fanta
+Beverage 1.99 3 medium 6745 FuseTea
+Beverage 2.99 1 large 1397 Pepsi
+Beverage 4.99 2 small 2065 Ayran
+Beverage 1.49 3 small 4333 Salgam
+Beverage 3.49 1 large 9565 Cay
+Beverage 4.25 2 medium 1654 TurkishCoffee
+Beverage 2.75 3 small 2188 Su
